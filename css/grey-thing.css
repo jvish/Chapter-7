@@ -1,0 +1,27 @@
+.container .term {
+  color: #f49524; }
+
+.container .term :hover {
+  color: #fefece; }
+
+.derpcap {
+  font-family: Helvetica, sans;
+  float: left;
+  color: #f49524;
+  font-size: 50pt;
+  line-height: 40pt;
+  padding-right: 3px; }
+
+.chapter-num {
+  font-family: Helvetica, sans;
+  font-size: 84pt;
+  line-height: 86pt; }
+
+.chapter-title {
+  font-family: Helvetica, sans;
+  font-size: 30pt;
+  line-height: 32pt;
+  margin-bottom: .5em; }
+
+.figure-placeholder {
+  XXXbackground-color: #2d2c2d; }
