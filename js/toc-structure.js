@@ -13,37 +13,37 @@ var bookConfig = {
         children: [
         {
             type: "module",
-            url: "7.1/module_7.1.html",
+            url: "module_7.1.html",
             id: "7.1",
             title: "Stereoisomerism",
             children: [
             {
                 type: "objective",
-                url: "7.1/section_7.1.1.html",
+                url: "section_7.1.1.html",
                 id: "7.1.1",
                 title: "Stereoisomerism in Alkenes"
             },
             {
                 type: "objective",
-                url: "7.1/section_7.1.2.html",
+                url: "section_7.1.2.html",
                 id: "7.1.2",
                 title: "Stereoisomerism at Tetrahedral Carbon"
             },
             {
                 type: "objective",
-                url: "7.1/section_7.1.3.html",
+                url: "section_7.1.3.html",
                 id: "7.1.3",
                 title: "Stereoisomerism in Allenes"
             },
             {
                 type: "objective",
-                url: "7.1/section_7.1.4.html",
+                url: "section_7.1.4.html",
                 id: "7.1.4",
                 title: "Stereoisomerism in Biphenyl and Related Derivatives"
             },
 			{
                 type: "objective",
-                url: "7.1/section_7.1.5.html",
+                url: "section_7.1.5.html",
                 id: "7.1.5",
                 title: "Stereocenters Involving Heteroatoms"
             },
